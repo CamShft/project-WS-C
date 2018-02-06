@@ -1,0 +1,8 @@
+node_modules
+/log
+ 
+/config/local..yaml
+/test-*
+/src/test.ts
+*.map
+*.js
